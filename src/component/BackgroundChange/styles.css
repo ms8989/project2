@@ -1,0 +1,7 @@
+#bgChange{
+  display: flex;
+  justify-content: center;
+}
+#bgChange button{
+  border-radius: 50%;
+}
